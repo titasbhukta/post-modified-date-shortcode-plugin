@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       Post Modified Date Shortcode
  * Plugin URI:        https://titasbhukta.com/plugin/post-modified-date-shortcode/
- * Description:       This is a plugin which gives you a shortcode to show the last modified date of a post instead of the publish date.
+ * Description:       A simple and lightweight plugin which gives you a shortcode to show the last modified date of a post instead of the publish date. This plugins adds the shortcode as [last_modified]. Use it in any post to see the last modified date.
  * Version:           1.0.0
  * Author:            Titas Bhukta
  * Author URI:        https://titasbhukta.com
