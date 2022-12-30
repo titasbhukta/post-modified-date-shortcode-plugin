@@ -20,7 +20,7 @@
 
 
  function last_modified_time() {
-    $modified_time = the_modified_time('F jS, Y');
+    $modified_time = get_the_modified_time('F jS, Y');
     return "Last modified on: " . $modified_time;
 }
 add_shortcode('last_modified', 'last_modified_time');
