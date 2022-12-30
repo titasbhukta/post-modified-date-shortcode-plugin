@@ -25,5 +25,4 @@
 }
 add_shortcode('last_modified', 'last_modified_time');
 
-
 ?>
